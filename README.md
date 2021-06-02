@@ -8,5 +8,5 @@ To install, execute the following steps:
 - Execute `cp .env.example .env`
 - Execute `php artisan key:generate`
 - Set the database configurations on the .env file
-- `artisan migrate`
+- Execute `php artisan migrate`
 - Set the mail configurations on the .env file
