@@ -2,7 +2,7 @@
 
 namespace App\BotMan\Messages;
 
-use App\Conversations\LoginConversation;
+use App\BotMan\Conversations\LoginConversation;
 
 class LoginMessage extends AbstractMessage
 {
